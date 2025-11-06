@@ -1,0 +1,25 @@
+{
+  "name": "KETH Token List",
+  "timestamp": "2025-04-27T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://imgur.com/a/QYaqoYp",
+  "keywords": ["keth", "kcash", "immutable", "ethereum"],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xdc2Cb657f935c47321D12096ef652586FE2917E4",
+      "name": "KETH",
+      "symbol": "KCASH",
+      "decimals": 18,
+      "logoURI": "https://imgur.com/a/QYaqoYp",
+      "extensions": {
+        "website": "https://github.com/serwstar-max/keth-tokenlist.git" 
+      }
+    }
+  ]
+}
